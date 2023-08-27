@@ -17,7 +17,7 @@ Clona o descarga el repositorio y ejecuta el archivo principal:
 git clone https://github.com/MICR0POP/BlueDolar-Swap-Hub.git
 ```
 ```bash
-cd BlueDolar-Swap-Hub
+cd BlueDolar-Swap-Hub-main
 ```
 Para ejecutar BlueDolar Swap Hub, necesitarás instalar algunas dependencias:
 ```bash
