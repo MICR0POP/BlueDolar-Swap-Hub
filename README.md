@@ -33,6 +33,9 @@ python3 main.py
 2. Ingresa el monto que deseas convertir.
 3. ¡Haz clic en el botón de convertir y obtén tu resultado!
 
+## Imagen de Ejemplo
+<img width="596" alt="image" src="https://github.com/MICR0POP/BlueDolar-Swap-Hub/assets/136286357/280773c0-59ae-4930-8300-9d4e1cbf05b5">
+
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Siéntete libre de abrir un *issue* o hacer un *pull request*.
