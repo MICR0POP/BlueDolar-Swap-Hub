@@ -53,7 +53,7 @@ class EnhancedCurrencyConverter(wx.Frame):
         vbox.Add(self.btn_convert, flag=wx.ALIGN_CENTER | wx.TOP | wx.BOTTOM, border=10)
 
         # List for history
-        self.history_list = wx.ListBox(panel)
+        self.history_list = wx.ListBox(panel, size=(500, 125))
         vbox.Add(self.history_list, flag=wx.EXPAND | wx.LEFT | wx.RIGHT, border=10)
 
         # Copy result button
